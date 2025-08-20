@@ -221,6 +221,6 @@ jupyter notebook
 
 ---
 
-**Autor**: [Tu Nombre] - Estudiante de Especialización en Ciencia de Datos  
+**Autor**: Samuel Mejia - Estudiante de Especialización en Ciencia de Datos  
 **Fecha**: Agosto 2025  
-**Contacto**: [tu-email@ejemplo.com]
+**Contacto**: mejiabsamuel777@gmail.com
