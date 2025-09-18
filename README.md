@@ -212,13 +212,6 @@ jupyter notebook
 - Implementar sistema de monitoreo basado en las variables más importantes
 - Desarrollar estrategias de retención basadas en los factores identificados
 
-## 📈 Próximos Pasos
-
-1. **Optimización de hiperparámetros** para mejorar rendimiento
-2. **Implementación en tiempo real** del sistema predictivo
-3. **Desarrollo de dashboard** interactivo para el área de negocio
-4. **Evaluación continua** del modelo con nuevos datos
-
 ---
 
 **Autor**: Samuel Mejia - Estudiante de Especialización en Ciencia de Datos  
