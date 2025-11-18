@@ -1,0 +1,15 @@
+# Ignorar entornos virtuales
+venv/
+telecomp/
+.env/
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Carpeta de VSCode
+.vscode/
